@@ -1,0 +1,9 @@
+{
+  "short_name": "Regina's website",
+  "name": "The personal site of Regina Donovan",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

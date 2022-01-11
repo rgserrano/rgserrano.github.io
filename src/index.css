@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@200;300;400;600;700;800;900&family=Lato:ital,wght@0,400;0,900;1,400&display=swap');
+
+html {
+  font-size: 12px;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Biryani", sans-serif;
+}
+
+@layer base {
+  code {
+    @apply text-sm;
+    @apply py-1;
+    @apply px-1.5;
+    @apply bg-gray-100;
+    @apply rounded
+  }
+}
+
+@layer utilities {
+  .w-intro {
+    width: 55rem;
+  }
+}
