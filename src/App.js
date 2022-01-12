@@ -6,7 +6,7 @@ import OtherProjects from "./components/OtherProjects";
 
 function App() {
   return (
-    <div className="flex flex-col justify-center items-center text-2xl text-gray-800">
+    <div className="flex flex-col justify-center items-center text-3xl text-gray-800">
       {<Nav />}
       {<Intro />}
       {<Lodge />}
