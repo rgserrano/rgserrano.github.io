@@ -26,7 +26,7 @@ const projects = [
 const Project = ({ img, title, description, tech }) => {
 
   return (
-    <div className="flex flex-col mr-12 items-left mb-24 rounded-lg border shadow-lg">
+    <div className="flex flex-col items-left mb-24 rounded-lg border shadow-lg">
       <div className="bg-gray-200 p-6">
         <img src={img} alt="the timehub site" className="rounded shadow-md" />
       </div>
@@ -41,9 +41,9 @@ const Project = ({ img, title, description, tech }) => {
 
 const OtherProjects = () => {
   return (
-    <div className="flex flex-col leading-9 py-20 w-full items-center text-left text-2xl">
+    <div className="flex flex-col leading-9 py-20 w-full justify-center items-center text-left text-2xl max-w-screen-xl">
       <h2 className="text-5xl font-bold mt-8 mb-24">Other Projects</h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 justify-items-center max-w-screen-2xl mx-14">
+      <div className="gap-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-14">
         {projects.map(p => <Project {...p} />)}
       </div>
     </div>
