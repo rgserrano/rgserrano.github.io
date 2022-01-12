@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ee50526.chunk.css",
-    "main.js": "./static/js/main.fa4fdd20.chunk.js",
-    "main.js.map": "./static/js/main.fa4fdd20.chunk.js.map",
+    "main.css": "./static/css/main.da8f708d.chunk.css",
+    "main.js": "./static/js/main.aefa4127.chunk.js",
+    "main.js.map": "./static/js/main.aefa4127.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9846c1b4.js",
     "runtime-main.js.map": "./static/js/runtime-main.9846c1b4.js.map",
     "static/js/2.3951d37d.chunk.js": "./static/js/2.3951d37d.chunk.js",
     "static/js/2.3951d37d.chunk.js.map": "./static/js/2.3951d37d.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.5ee50526.chunk.css.map": "./static/css/main.5ee50526.chunk.css.map",
+    "static/css/main.da8f708d.chunk.css.map": "./static/css/main.da8f708d.chunk.css.map",
     "static/js/2.3951d37d.chunk.js.LICENSE.txt": "./static/js/2.3951d37d.chunk.js.LICENSE.txt",
     "static/media/Lodge_logo_side.fc319ca5.svg": "./static/media/Lodge_logo_side.fc319ca5.svg",
     "static/media/Regina_Resume.718a2a7e.pdf": "./static/media/Regina_Resume.718a2a7e.pdf",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.9846c1b4.js",
     "static/js/2.3951d37d.chunk.js",
-    "static/css/main.5ee50526.chunk.css",
-    "static/js/main.fa4fdd20.chunk.js"
+    "static/css/main.da8f708d.chunk.css",
+    "static/js/main.aefa4127.chunk.js"
   ]
 }
