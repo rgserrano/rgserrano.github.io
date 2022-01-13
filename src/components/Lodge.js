@@ -14,7 +14,7 @@ const Lodge = () => {
           opinionated logging solution for distributed web applications.
           It's based on the Elastic stack, with Kafka brokers for handling bursty traffic, and is deployed across multiple AWS availability zones for reliability.
         </p>
-        <a href="https://lodge-logging.github.io/" target="_blank">
+        <a href="https://lodge-logging.github.io/#case-study" target="_blank">
           <button className="xl:mt-20 xl:px-20 shadow-lg bg-indigo-500 hover:bg-indigo-700 border-gray-300 border-2 rounded-lg text-2xl py-4 px-14 mt-14 mb-20 text-white">
             Read Lodge Case Study
           </button>
