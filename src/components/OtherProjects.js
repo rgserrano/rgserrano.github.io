@@ -11,7 +11,7 @@ const projects = [
   },
   {
     img: trello,
-    title: "Trello-Clone",
+    title: "Trillo",
     description: "A Trello-like task management app.",
     tech: "React/Redux, Node.js, Express, MongoDB, REST API."
   },
