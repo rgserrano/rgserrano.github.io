@@ -33,7 +33,10 @@ h6 {
 }
 
 @layer utilities {
-  .w-intro {
-    width: 55rem;
+  .bombbomb {
+    color: #eb832f;
+  }
+  .bombbomb:hover {
+    color: #d16b17;
   }
 }
